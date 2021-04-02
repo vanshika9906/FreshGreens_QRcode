@@ -1,1 +1,1 @@
-# FreshGreens_QRcode
+# DJango-Qrcode
